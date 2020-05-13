@@ -40,7 +40,7 @@ First, you will need to have Node.js installed. If you don't already have it ins
 
 Once you have Node.js installed, you will need to create a new directory to store your project. Once you have a new directory, open your system terminal/command prompt/shell and navigate to your new directory. You can create the directory in your home folder or anywhere you have permission. You may prefer to create a folder on your desktop.
 
-> mkdir my_discord_bot
+> mkdir my_discord_bot <br/>
 > cd my_discord_bot
 
 The next step is to install the Discord.js module and its dependencies. Use npm in the command prompt to install the module:
